@@ -1,3 +1,8 @@
+
+RESOURCES/
+my-ssh-key.pub*
+connect.sh*
+
 # Logs
 logs
 *.log
